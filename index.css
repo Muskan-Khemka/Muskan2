@@ -4,7 +4,7 @@ html{
 h1{
     position: relative;
     float: top;
-    background-image: url(./images/black3.jpg);
+    background-image: url(images/black3.jpg);
     color: white;
     width:  93vw;
     text-align: center;
@@ -46,7 +46,7 @@ img:hover{
 }
 
 h2{
-    background-image: url(./images/black3.jpg);
+    background-image: url(images/black3.jpg);
     width: 33%;
     float: left;
     color: white;
